@@ -1,0 +1,66 @@
+1----- south indian
+    1----- Dosa
+        1---- plain dosa(10)
+        2---- masala dosa(20)
+        3----maisur dosa(30)
+    2-----idli
+        1---- plain idli
+        2---- msala idli
+        3---- fried idli
+    3----- Vada
+        1--- fried
+        2---plain
+        3---masala
+2-----Gujrati
+    1---roti
+        1---plain
+        2---tanduri
+        3---naan
+    2---sabji
+        1--- aloo matar
+        2--- bhindi
+        3--- sev tamatar
+    3---sweet
+        1--- srikhand
+        2---- gulab jamoon
+        3---rasgulla
+3----- Panjabi
+        1---roti
+            1--- butter roti
+            2--- cheese roti
+            3---- tanduri roti
+        2---sabji
+            1--- paneer tikka
+            2---- palak paneer
+            3---- mix vegetable
+        3---paratha
+            1----- aloo partha
+            2--- Gobi paratha
+            3---- cheese paratha
+4----- Iatalian
+        1---- pizza
+            1---margherita
+            2---cheese
+            3---onlion 
+        2---- pasta
+            1---white souce
+            2---red souce
+            3---plain
+        3----salads
+            1---chef salad
+            2---house salad
+            3---spinach slad
+5----- chineese
+        1--- noodels
+            1---haka noodels
+            2---veg noodels
+            3--- egg noodels
+        2--- momos 
+            1---simple
+            2---fried
+            3---veg     
+        3---soup
+            1---sweet corn
+            2---hot n sour
+            3---manchow
+
